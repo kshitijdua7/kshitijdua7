@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="./banner.png" alt="Profile banner" width="600" />
+  <img src="./banner.png" alt="Profile banner" width="400" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ fun_fact: "I build startups like side quests 🎮"
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,tailwind,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,java,python,ts,nodejs,express,mongodb,c#,tailwind,git,github,vercel" />
 </p>
 
 
@@ -47,20 +47,26 @@ fun_fact: "I build startups like side quests 🎮"
 ## 🔥 Highlight Projects
 
 | ⭐ Project | 💡 Description | 🛠 Tech Stack |
-|----------|---------------|--------------|
-| Home Services Platform | Uber-style home services app with admin & pro dashboard | Next.js, Node, MongoDB |
-| Black&Decor | E-commerce store for electronics & appliances | React, Tailwind |
-| TemptingBox | Vegan bakery e-commerce website | Next.js, Stripe |
+|----------|----------------|--------------|
+| Home Services Platform | Uber-style home services app with admin & professional dashboard | Next.js, Node.js, MongoDB |
+| Lost & Found App (Capstone) | Transit-focused lost & found system allowing users to report, search, and claim lost items with authentication and admin moderation | React, Node.js, Express, MongoDB |
+| Realtor Website | Modern real estate website showcasing property listings, filters, and lead capture for realtors | Next.js, Tailwind CSS |
+| PhrasePerfect | AI-powered writing assistant offering paraphrasing, grammar checking, summarization, translation, citation support, and AI-content detection | React, Firebase, OpenAI API |
+| Black&Decor | E-commerce store for electronics & home appliances | React, Tailwind CSS |
+| TemptingBox | Vegan bakery e-commerce website with online ordering | Next.js, Stripe |
 
 ---
 
 ## 📬 Contact Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/kshitij-dua-090115260/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:kshitijdua22@email.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/kshitijdua7">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
