@@ -26,3 +26,35 @@ tech:
   - MongoDB
 passion: "Building products people actually use"
 fun_fact: "I build startups like side quests 🎮"
+
+---
+
+# ✅ STEP 5: Tech Stack icons (must-have)
+
+Use **Skill Icons** (same as screenshot):
+
+```md
+## 🧰 Tech Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,tailwind,git,github,vercel" />
+</p>
+
+## 🔥 Highlight Projects
+
+| ⭐ Project | 💡 Description | 🛠 Tech Stack |
+|----------|---------------|--------------|
+| Home Services Platform | Uber-style home services app with admin & pro dashboard | Next.js, Node, MongoDB |
+| Black&Decor | E-commerce store for electronics & appliances | React, Tailwind |
+| TemptingBox | Vegan bakery e-commerce website | Next.js, Stripe |
+
+## 📬 Contact Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
