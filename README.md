@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Profile banner" />
+  <img src="./banner.png" alt="Profile banner" width="80%" />
 </p>
 
 <h1 align="center">Hey 👋 I'm Kshitij Dua</h1>
