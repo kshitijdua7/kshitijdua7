@@ -1,12 +1,17 @@
-<p align="center">
-  <img src="./banner.png" alt="Profile banner" width="80%" />
-</p>
-
 <h1 align="center">Hey 👋 I'm Kshitij Dua</h1>
-<h3 align="center">Full-Stack Developer | Software Engineering Student | Builder</h3>
+
+<h3 align="center">
+  Full-Stack Developer | Software Engineering Student | Builder
+</h3>
 
 <p align="center">
   📍 Ontario, Canada • 💻 Next.js / React • 🚀 Startups & SaaS
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./banner.png" alt="Profile banner" width="600" />
 </p>
 
 ---
