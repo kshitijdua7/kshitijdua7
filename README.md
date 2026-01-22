@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Kshitij Dua</h1>
+<h3 align="center">Full-Stack Developer | Entrepreneur | Builder</h3>
 
-<!--
-**kshitijdua7/kshitijdua7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Turning ideas into real products <br/>
+  💻 Web, SaaS, Automation & Startups <br/>
+  📍 Ontario, Canada
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="./banner.png" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+```yaml
+name: Kshitij Dua
+role: Full-Stack Developer | Software Engineering Student
+focus:
+  - Web & SaaS Applications
+  - E-commerce Platforms
+  - Home Services & Automation
+tech:
+  - React, Next.js, Tailwind
+  - Node.js, Express
+  - MongoDB
+passion: "Building products people actually use"
+fun_fact: "I build startups like side quests 🎮"
