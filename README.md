@@ -32,6 +32,7 @@ tech:
 passion: "Building products people actually use"
 fun_fact: "I build startups like side quests 🎮"
 
+```
 ---
 
 ## 🧰 Tech Toolbox
@@ -39,6 +40,7 @@ fun_fact: "I build startups like side quests 🎮"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,tailwind,git,github,vercel" />
 </p>
+
 
 ---
 
