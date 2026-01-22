@@ -27,7 +27,15 @@ tech:
 passion: "Building products people actually use"
 fun_fact: "I build startups like side quests 🎮"
 
-🧰 Tech Toolbox
+---
+
+# ✅ STEP 5: Tech Stack icons (must-have)
+
+Use **Skill Icons** (same as screenshot):
+
+```md
+## 🧰 Tech Toolbox
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,tailwind,git,github,vercel" />
 </p>
