@@ -31,7 +31,6 @@ fun_fact: "I build startups like side quests 🎮"
 
 ## 🧰 Tech Toolbox
 
-```yaml
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,tailwind,git,github,vercel" />
 </p>
@@ -40,7 +39,6 @@ fun_fact: "I build startups like side quests 🎮"
 
 ## 🔥 Highlight Projects
 
-```yaml
 | ⭐ Project | 💡 Description | 🛠 Tech Stack |
 |----------|---------------|--------------|
 | Home Services Platform | Uber-style home services app with admin & pro dashboard | Next.js, Node, MongoDB |
