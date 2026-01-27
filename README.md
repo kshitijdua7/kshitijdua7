@@ -38,7 +38,7 @@ fun_fact: "I build startups like side quests 🎮"
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,java,python,ts,nodejs,express,mongodb,c#,tailwind,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,java,python,ts,nodejs,express,mongodb,c#,tailwind,git,github,vercel,jira,docker" />
 </p>
 
 
